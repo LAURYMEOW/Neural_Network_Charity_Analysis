@@ -5,7 +5,7 @@
 The purpose of this analysis is to create a binary classifier that is able to predict whether applicants will be successful if they are funded by Alphabet Soup.
 To achieve this, the deep neural network machine learning model methodology will be used.
 
-##Results:
+## Results:
 
 ### Data preprocessing
 
@@ -42,7 +42,8 @@ The final model was specified with 4 layers:
 
 
 Image 1. Results for the optimized model
-![]()
+
+![](https://github.com/LAURYMEOW/Neural_Network_Charity_Analysis/blob/main/Resources/Summary_model.png)
 
 The Tahn activation function was chosen since we have a wide input dataset and because the RELU function did not have a significant impact on the behavior of the model.
 
