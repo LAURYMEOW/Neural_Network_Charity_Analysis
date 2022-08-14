@@ -41,9 +41,10 @@ The final model was specified with 4 layers:
 * The fourth layer has 100 neurons and was selected with the Tanh activation function.
 
 
-Image 1. Results for the optimized model
+### Image 1. Results for the optimized model
 
 ![](https://github.com/LAURYMEOW/Neural_Network_Charity_Analysis/blob/main/Resources/Summary_model.png)
+![](https://github.com/LAURYMEOW/Neural_Network_Charity_Analysis/blob/main/Resources/Model%20evaluation.png)
 
 The Tahn activation function was chosen since we have a wide input dataset and because the RELU function did not have a significant impact on the behavior of the model.
 
