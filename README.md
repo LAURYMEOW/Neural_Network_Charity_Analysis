@@ -43,10 +43,10 @@ ASK_AMT
 
 The final model was specified with 4 layers:
 
-* The first layer has 150 neurons and was selected with the Tanh activation function.
-* The second layer has 150 neurons and was selected with the Tanh activation function.
-* The third layer has 150 neurons and was selected with the Tanh activation function.
-* The fourth layer has 100 neurons and was selected with the Tanh activation function.
+*The first layer has 150 neurons and was selected with the Tanh activation function.
+*The second layer has 150 neurons and was selected with the Tanh activation function.
+*The third layer has 150 neurons and was selected with the Tanh activation function.
+*The fourth layer has 100 neurons and was selected with the Tanh activation function.
 
 
 ## Image 1. Results for the optimized model
@@ -64,10 +64,10 @@ No
  
 - What steps did you take to try and increase model performance?
 
-* First I did a database check and decided to remove a variable that could be causing problems (INCOME_AIM).
-* Create a new bin for rare occurrences for the column (ASK_AIM) and reduce the number of values for the other two bins so that they are left at 6 unique values each.
-* Add more neurons to the model, then add more layers and change the activation function.
-* I also added epochs to see if it improved the model but it didn't work and go back to 100 epochs.
+*First I did a database check and decided to remove a variable that could be causing problems (INCOME_AIM).
+*Create a new bin for rare occurrences for the column (ASK_AIM) and reduce the number of values for the other two bins so that they are left at 6 unique values each.
+*Add more neurons to the model, then add more layers and change the activation function.
+*I also added epochs to see if it improved the model but it didn't work and go back to 100 epochs.
 
 ## Summary 
 
