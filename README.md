@@ -59,7 +59,7 @@ No
 * Add more neurons to the model, then add more layers and change the activation function.
 * I also added epochs to see if it improved the model but it didn't work and go back to 100 epochs.
 
-## Summary – Summarize the overall results of the deep learning model. Include a recommendation on how a different model might solve this classification problem, and explain your recommendation.
+## Summary 
 
 It is difficult to achieve an acceptable accuracy with the current database with the implemented methodology.
 Therefore, it is very likely that the model will be prone to overidentifying itself. It is pertinent to review the database, make a statistical analysis of the correlation of the variables and consider the variables of interest to the company.
