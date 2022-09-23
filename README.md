@@ -73,4 +73,4 @@ No
 
 It is difficult to achieve an acceptable accuracy with the current database with the implemented methodology.
 Therefore, it is very likely that the model will be prone to overidentifying itself. It is pertinent to review the database, make a statistical analysis of the correlation of the variables and consider the variables of interest to the company.
-It is also advisable to try another type of model, perhaps a less rigorous one such as supervised machine learning, since it is likely that a better result will be achieved in less time.
+It is also advisable to try another type of model, perhaps a less rigorous one such as supervised random forest machine learning model, since it is likely that a better result will be achieved in less time.
